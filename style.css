@@ -124,12 +124,14 @@ li img {
 }
 
 #video {
-    font-size: 26px;
+    font-size: 30px;
     text-align: center;
-    margin: 40px;
+    margin: 50px;
+    margin-bottom: 20px;
+    color: rgb(71, 162, 205);
+    font-weight: bold;
 }
-
-#video p {
+#videoText{
     margin-bottom: 20px;
 }
 
